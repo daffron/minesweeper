@@ -21,8 +21,10 @@ function startGame () {
   document.getElementById('gameboard').addEventListener('contextMenu', function(){
 checkForWin();
 checkLose();
+
 })
 }
+
 
 // Define this function to look for a win condition:
 //
