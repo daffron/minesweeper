@@ -94,3 +94,16 @@ div.marked, div.marked:hover {
   color: #fff;
   background-color: #00B7E2;
 }
+
+body {
+
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
