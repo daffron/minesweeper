@@ -58,3 +58,12 @@ div.hidden:hover {
 div.marked, div.marked:hover {
   background: no-repeat center/60% url("images/mark.svg") deepskyblue;
 }
+
+.hide {
+  display: none;
+}
+
+#restart {
+  text-align: center;
+  font-family: monospace;
+}
